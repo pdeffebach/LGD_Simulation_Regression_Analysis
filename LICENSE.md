@@ -1,0 +1,1 @@
+All code was written while working at the Office of Comptroller of Currency, Department of Treasury, DC office in summer 2016. All documents published in this repository have been approved for removal and do not contain any confidential or sensitive information. 
